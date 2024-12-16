@@ -1,0 +1,14 @@
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\bin\Debug\net8.0\stop-watch-.exe
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\bin\Debug\net8.0\stop-watch-.deps.json
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\bin\Debug\net8.0\stop-watch-.runtimeconfig.json
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\bin\Debug\net8.0\stop-watch-.dll
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\bin\Debug\net8.0\stop-watch-.pdb
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.AssemblyInfoInputs.cache
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.AssemblyInfo.cs
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.csproj.CoreCompileInputs.cache
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.dll
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\refint\stop-watch-.dll
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.pdb
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\stop-watch-.genruntimeconfig.cache
+C:\Users\Ashu\Desktop\gubaTech\stop-watch-\obj\Debug\net8.0\ref\stop-watch-.dll
